@@ -1,0 +1,6 @@
+Git Credentials:
+Username: VtdI3gc7McuBFyJarmO84eGR01WR0ukz3
+Password: 9Jkev48B
+
+Workers URL: https://serverless-api.raovaishnavi984782.workers.dev
+Pages URL: https://cd341d6a.dashboard-ui.pages.dev/

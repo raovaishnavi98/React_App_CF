@@ -1,0 +1,14 @@
+name = "serverless-api"
+main = "src/index.js"
+compatibility_date = "2022-10-11"
+type = "webpack"
+
+account_id = "056db53b767631f8024cc73596516dce"
+workers_dev = true
+route = ""
+zone_id = ""
+
+kv_namespaces = [ 
+  { binding = "jsondata", preview_id = "aaef6b9a0f884db1bc1a3fc6d6b552ea", id = "34922d8b376142a2b08a851ba439d013" }
+]
+

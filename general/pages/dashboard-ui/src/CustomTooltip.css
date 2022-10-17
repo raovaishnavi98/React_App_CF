@@ -1,0 +1,17 @@
+.customTooltip {
+    background: rgb(232, 202, 233);
+    color: #333;
+    box-shadow: 0 3px 14px rgb(0 0 0 / 40%);
+    padding: 6px;
+    text-align: left;
+    border-radius: 12px;
+
+}
+
+.label {
+    font-weight: 600;
+    font-style: bold;
+    font-family: 'Segoe UI';
+    text-align: center;
+    color: #442d4d;
+  }
